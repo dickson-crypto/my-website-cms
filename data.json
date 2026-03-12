@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-05T10:16:33.871Z",
+  "last_update": "2026-03-12T15:58:01.962Z",
   "projects": [
     {
       "Timestamp": "2026-03-02",
@@ -350,5 +350,266 @@
       "Sort_date": "2023-05-01"
     }
   ],
-  "ui_text": {}
+  "ui_text": {
+    "Home": {
+      "en": "Home",
+      "tc": "首頁",
+      "jp": "ホーム"
+    },
+    "About": {
+      "en": "About",
+      "tc": "關於我們",
+      "jp": "について"
+    },
+    "WhatWeDo": {
+      "en": "What We Do",
+      "tc": "我們的服務",
+      "jp": "私たちのサービス"
+    },
+    "WhoWeHelp": {
+      "en": "WHO WE HELP",
+      "tc": "服務對象",
+      "jp": "業種別クライアント"
+    },
+    "GovPublic": {
+      "en": "Government & Public Sector",
+      "tc": "政府及公共機構",
+      "jp": "政府・公共機関"
+    },
+    "LifestyleConsumer": {
+      "en": "Lifestyle & Consumer",
+      "tc": "生活時尚及消費品",
+      "jp": "ライフスタイル・消費財"
+    },
+    "FBHospitality": {
+      "en": "F&B & Hospitality",
+      "tc": "餐飲及款待",
+      "jp": "F&B・ホスピタリティ"
+    },
+    "MallsVenues": {
+      "en": "Malls & Venues",
+      "tc": "商場及場地",
+      "jp": "モール・会場"
+    },
+    "RovingExhibitions": {
+      "en": "Roving Exhibitions",
+      "tc": "巡迴展覽",
+      "jp": "巡回展示"
+    },
+    "SocialContent": {
+      "en": "Social & Content",
+      "tc": "社交媒體及內容",
+      "jp": "ソーシャル・コンテンツ"
+    },
+    "InteractiveTech": {
+      "en": "Interactive & Tech",
+      "tc": "互動科技",
+      "jp": "インタラクティブ・テクノロジー"
+    },
+    "PRMedia": {
+      "en": "PR & Media",
+      "tc": "公關及媒體",
+      "jp": "PR・メディア"
+    },
+    "EventsCeremonies": {
+      "en": "Events & Ceremonies",
+      "tc": "活動及典禮",
+      "jp": "イベント・式典"
+    },
+    "ViewAllWork": {
+      "en": "VIEW ALL WORK",
+      "tc": "瀏覽所有作品",
+      "jp": "全ての作品を見る"
+    },
+    "Line1": {
+      "en": "WE MOVE",
+      "tc": "我們引領",
+      "jp": "弊社は、"
+    },
+    "Line2": {
+      "en": "BEYOND THE SCROLL",
+      "tc": "打破螢幕框架",
+      "jp": "をデジタル"
+    },
+    "Line3": {
+      "en": "SPARK CURIOSITY FOR",
+      "tc": "，為",
+      "jp": "空間から現実の体験"
+    },
+    "Line4": {
+      "en": "& ARCHITECT",
+      "tc": "激發大眾好奇，",
+      "jp": "へと導き、"
+    },
+    "Subtitle": {
+      "en": "And we're clued up on public engagement...",
+      "tc": "對於策動公眾參與，我們瞭如指掌。",
+      "jp": "大衆の心を動かす仕掛けこそ、私たちの真骨頂です。"
+    },
+    "CTA": {
+      "en": "SIGN ME UP ↳",
+      "tc": "立即訂閱",
+      "jp": "登録する"
+    },
+    "Title": {
+      "en": "Terms of Service",
+      "tc": "服務條款",
+      "jp": "利用規約"
+    },
+    "Stats1": {
+      "en": "Years Experience",
+      "tc": "年經驗",
+      "jp": "年以上の経験"
+    },
+    "Stats2": {
+      "en": "Projects Delivered",
+      "tc": "個已完成項目",
+      "jp": "件以上のプロジェクト完了"
+    },
+    "Stats3Num": {
+      "en": "1.5M+",
+      "tc": "150+",
+      "jp": "150+"
+    },
+    "Stats3": {
+      "en": "People Engaged",
+      "tc": "萬參與人數",
+      "jp": "万人以上の参加者を動員"
+    },
+    "EmailPlaceholder": {
+      "en": "YOUR EMAIL ADDRESS",
+      "tc": "請輸入電郵地址",
+      "jp": "メールアドレス"
+    },
+    "Line5": {
+      "en": "PUBLIC MOMENTS",
+      "tc": "並為",
+      "jp": "好奇心"
+    },
+    "Line6": {
+      "en": "FOR",
+      "tc": "精心構築難忘的公共時刻。",
+      "jp": "を刺激し、日常を忘れら"
+    },
+    "Line7": {
+      "en": "",
+      "tc": "",
+      "jp": "れない空間へ。"
+    },
+    "PolaroidAlt": {
+      "en": "Event",
+      "tc": "活動",
+      "jp": "イベント"
+    },
+    "Card1.Title": {
+      "en": "FROM POLICY TO PLAY: THE 2026 ROVING EXHIBITION REPORT",
+      "tc": "從政策到實踐：2026 巡迴展覽報告",
+      "jp": "政策から遊びへ：2026年巡回展示レポート"
+    },
+    "Card1.Desc": {
+      "en": "We analyze how institutional rigor meets family-first engagement. Discover why 78% of HK families now prioritize interactive digital games over static displays in public exhibitions.",
+      "tc": "我們分析了機構的嚴謹性如何與家庭優先的參與相結合。了解為什麼 78% 的香港家庭現在在公共展覽中優先考慮互動數位遊戲，而非靜態展示。",
+      "jp": "公的機関の厳格さとファミリー層向けのエンゲージメントの融合を分析。香港の家族の78%が、公共展示において静止画よりもインタラクティブなデジタルゲームを優先する理由を探ります。"
+    },
+    "Card1.Alt": {
+      "en": "Report",
+      "tc": "報告",
+      "jp": "レポート"
+    },
+    "Card2.Title": {
+      "en": "LUXURY RESILIENCE: WHY F&B BRANDS CRAVE IMMERSION",
+      "tc": "奢侈品的韌性：為什麼餐飲品牌渴望沉浸感",
+      "jp": "ラグジュアリーの回復力：なぜ飲食ブランドは没入感を求めるのか"
+    },
+    "Card2.Desc": {
+      "en": "High-energy activations are the new currency for Hong Kong's retail core. We explore the \"Tactile Maximalism\" trend in Causeway Bay pop-ups and how F&B leaders like Ogawa and MaskOn are leveraging immersive storytelling.",
+      "tc": "高能量的活動是香港零售核心的新貨幣。我們探討了銅鑼灣快閃店中的「觸感極大主義」趨勢，以及 Ogawa 和 MaskOn 等餐飲領導者如何利用沉浸式故事講述。",
+      "jp": "高エネルギーなアクティベーションは、香港のリテールにおける新たな通貨です。銅鑼湾のポップアップにおける「タクタイル・マキシマリズム」のトレンドと、OgawaやMaskOnなどの飲食リーダーが没入型ストーリーテリングをどのように活用しているかを探ります。"
+    },
+    "Card2.Alt": {
+      "en": "Luxury",
+      "tc": "奢侈品",
+      "jp": "ラグジュアリー"
+    },
+    "Card3.Title": {
+      "en": "THE AI EDGE: NAVIGATING THE NEW ERA OF PUBLIC PR",
+      "tc": "AI 優勢：導航公共公關的新時代",
+      "jp": "AIの優位性：パブリックPRの新時代をナビゲートする"
+    },
+    "Card3.Desc": {
+      "en": "Generative Search is changing how government tenders and lifestyle brands find partners. We break down the technical requirements for GEO (Generative Engine Optimization).",
+      "tc": "生成式搜索正在改變政府招標和生活方式品牌尋找合作夥伴的方式。我們分解了 GEO（生成引擎優化）的技術要求。",
+      "jp": "生成AI検索は、政府の入札やライフスタイルブランドがパートナーを見つける方法を変えています。GEO（生成エンジン最適化）の技術的要件を解説します。"
+    },
+    "Card3.Alt": {
+      "en": "AI",
+      "tc": "人工智能",
+      "jp": "AI"
+    },
+    "ReadMore": {
+      "en": "READ →",
+      "tc": "閱讀更多 →",
+      "jp": "続きを読む →"
+    },
+    "All": {
+      "en": "All",
+      "tc": "全部",
+      "jp": "すべて"
+    },
+    "Found": {
+      "en": "results found",
+      "tc": "個結果",
+      "jp": "件の結果"
+    },
+    "Title1": {
+      "en": "Ready To Talk?",
+      "tc": "準備好了？",
+      "jp": "準備はいいですか？"
+    },
+    "Title2": {
+      "en": "Get In Touch.",
+      "tc": "請聯絡我們。",
+      "jp": "お気軽にご相談ください。"
+    },
+    "NewBusiness": {
+      "en": "New Business",
+      "tc": "業務查詢",
+      "jp": "新規ビジネス"
+    },
+    "Address": {
+      "en": "Unit A, 23/F Morrison Plaza, 5-9 Morrison Hill Rd. Wan Chai, Hong Kong",
+      "tc": "香港 灣仔摩理臣山道 5-9A號 天樂廣場 23樓A室",
+      "jp": "香港湾仔 摩理臣山道5-9A号 天楽広場 23階A室"
+    },
+    "Careers": {
+      "en": "Careers",
+      "tc": "職位招聘",
+      "jp": "求人"
+    },
+    "Copyright": {
+      "en": "©2026 Firebean Limited All Rights Reserved.",
+      "tc": "©2026 Firebean Limited 版權所有。",
+      "jp": "©2026 Firebean Limited All Rights Reserved。"
+    },
+    "Disclaimer": {
+      "en": "Disclaimer",
+      "tc": "免責聲明",
+      "jp": "免責事項"
+    },
+    "Privacy": {
+      "en": "Privacy Policy",
+      "tc": "隱私政策",
+      "jp": "プライバシーポリシー"
+    },
+    "Terms": {
+      "en": "Terms of Service",
+      "tc": "服務條款",
+      "jp": "利用規約"
+    },
+    "Content": {
+      "en": "<p>By accessing this website, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site.</p><p>Permission is granted to temporarily download one copy of the materials (information or software) on Firebean Limited's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials; use the materials for any commercial purpose, or for any public display (commercial or non-commercial); attempt to decompile or reverse engineer any software contained on this website; remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or \"mirror\" the materials on any other server.</p><p>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Firebean Limited at any time.</p><p>The materials on Firebean Limited's website are provided on an 'as is' basis. Firebean Limited makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</p>",
+      "tc": "<p>在您登入本網站時，即表示同意遵守本服務條款與相關法律法規，並同意您有責任遵守任何適用的當地法律。如果您不同意這些條款中的任何一項，您將被禁止使用或訪問本網站。</p><p>我們准許您臨時下載 Firebean Limited 網站上的一份材料（資訊或軟體）副本，僅供個人、非商業性的臨時查看。這僅是許可的授予，而非所有權的轉讓，在此許可下，您不得：修改或複製材料；將材料用於任何商業目的，或用於任何公開展示（商業或非商業）；嘗試對本網站包含的任何軟體進行反編譯或逆向工程；刪除材料中的任何版權或其他專有標註；或將材料轉移給他人或在任何其他伺服器上「鏡像」材料。</p><p>如果您違反任何這些限制，本許可將自動終止，Firebean Limited 也可以隨時終止本許可。</p><p>Firebean Limited 網站上的材料按「原樣」提供。Firebean Limited 不做任何明示或暗示的保證，並特此聲明並否認所有其他保證，包括但不限於對適銷性、特定用途的適用性或不侵犯知識產權或其他權利侵犯的暗示保證或條件。</p>",
+      "jp": "<p>本ウェブサイトにアクセスすることにより、お客様はこれらの利用規約、すべての適用法令に拘束されることに同意し、適用される現地法の遵守に責任を負うことに同意したものとみなされます。これらの規約のいずれかに同意しない場合は、本サイトの使用またはアクセスを禁止します。</p><p>Firebean Limitedのウェブサイト上の資料（情報またはソフトウェア）の1コピーを、個人的、非営利的な一時的な閲覧のためにのみ一時的にダウンロードすることが許可されます。これはライセンスの付与であり、所有権の譲渡ではありません。このライセンスに基づき、お客様は以下のことを行うことはできません：資料を改変またはコピーすること。商業目的、または公の展示（商業的か非営利かに関わらず）のために資料を使用すること。本ウェブサイトに含まれるソフトウェアをデコンパイルまたはリバースエンジニアリングしようとすること。資料から著作権またはその他の所有権の表記を削除すること。または資料を別の人に転送したり、他のサーバーに資料を「ミラーリング」したりすること。</p><p>これらの制限のいずれかに違反した場合、このライセンスは自動的に終了し、Firebean Limitedはいつでも終了させることができます。</p><p>Firebean Limitedのウェブサイト上の資料は「現状有姿」で提供されます。Firebean Limitedは、明示的か黙示的かを問わず、いかなる保証も行わず、商品性、特定目的への適合性、または知的財産権の非侵害やその他の権利の侵害がないことの黙示的な保証または条件を含むがこれらに限定されない、他のすべての保証を否認および否定します。</p>"
+    }
+  }
 }
